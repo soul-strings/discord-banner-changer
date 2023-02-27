@@ -75,7 +75,7 @@ client.on('ready', () => {
     setInterval(changeBanner, ms("1m")); //call our function every 1m
 
     const selected_our_activiti = [
-        `Developer by Enterprise`,
+        `Developed by Enterprise`,
         `another status`,
         `another status lol`,
     ]
